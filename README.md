@@ -3,4 +3,4 @@ Notebook for extracting individual tree trunks in a densely connected forest are
 
 WorkFlow Example
 
-https://github.com/ankit13sharma/lidarProject/blob/main/images/LiDAR%20Graphic.JPG
+<img src="images/LiDAR Graphic.JPG" />
